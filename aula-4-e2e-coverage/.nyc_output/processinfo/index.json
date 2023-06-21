@@ -1,0 +1,1 @@
+{"processes":{"c3fe564f-973f-43be-a202-dccfc27012e0":{"parent":null,"children":["ec344b1b-657d-458e-9c8d-0e0170eb73ef"]},"ec344b1b-657d-458e-9c8d-0e0170eb73ef":{"parent":"c3fe564f-973f-43be-a202-dccfc27012e0","children":[]}},"files":{"/Users/hildebrando/Projects/courses/js-expert/module-1/aula-4-e2e-coverage/src/api.js":["ec344b1b-657d-458e-9c8d-0e0170eb73ef"]},"externalIds":{}}
